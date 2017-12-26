@@ -1,6 +1,6 @@
 import javax.swing.JFrame;
 
-public class Graphics {
+public class Graphics {			//патч 1
 
 	public static void graphics(String[] args) {
 		JFrame frame = new JFrame();
@@ -9,6 +9,6 @@ public class Graphics {
 		frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
 		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);
-
+								
 	}
 }
