@@ -9,6 +9,10 @@ public class Graphics {
 		frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE);
 		frame.setLocationRelativeTo(null);
 		frame.setVisible(true);
+<<<<<<< HEAD
 
+=======
+		
+>>>>>>> 531b8a37e09ad03b9d82868610704bbf46609a8a
 	}
 }
